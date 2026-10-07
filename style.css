@@ -1,8 +1,8 @@
 
-body {
-    background-color: #f4f4f9; 
-    color: #333333; 
-}
+body{
+    background-color: black; 
+    color:black;
+     }
 
 
 a {
@@ -10,5 +10,37 @@ a {
     text-decoration: none; 
 }
 a:hover {
-    color: #c0392b; /* Rouge plus foncé */
+    color:white;
+    background: orange;
 }
+h1{
+    color: white;;
+    background: orange;
+    padding: 15px;
+}
+#h11{
+    color: white;
+}
+#h12{
+    color: white;
+}
+#h21{
+    color: white;
+}
+#h22{
+    color: white;
+}
+#h31{
+    color: white;
+}
+#h32{
+    color: white;
+}
+img{
+    max-width: 100%;
+    border-radius: 8px;
+}
+img:hover {
+    box-shadow: 0 0 15 px orange;
+}
+
